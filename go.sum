@@ -1,7 +1,5 @@
 github.com/go-resty/resty/v2 v2.11.0 h1:i7jMfNOJYMp69lq7qozJP+bjgzfAzeOhuGlyDrqxT/8=
 github.com/go-resty/resty/v2 v2.11.0/go.mod h1:iiP/OpA0CkcL3IGt1O0+/SIItFUbkkyw5BGXiVdTu+A=
-github.com/lishimeng/wechat v1.0.0 h1:obcuYcQNZyCRbDgOK0xuzpgQt3p/1/JHB1fRsQnW8KY=
-github.com/lishimeng/wechat v1.0.0/go.mod h1:GqXBILw8HJ3BW1sHGcnRT5zLIHbgh08SRiZtwh5pt0s=
 github.com/lishimeng/x v1.0.0 h1:/VlQBZMDomlWxoIgFFD28mrBJJC1mTxrdin4IRy7gAY=
 github.com/lishimeng/x v1.0.0/go.mod h1:rqREd1QJPRJLSAshhCYlWVKNYI6JEAJHD5a/hlsCUow=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=

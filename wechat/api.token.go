@@ -3,7 +3,7 @@ package wechat
 import (
 	"errors"
 	"fmt"
-	"github.com/lishimeng/wechat/rest"
+	"github.com/lishimeng/x/rest"
 	"net/url"
 	"time"
 )
